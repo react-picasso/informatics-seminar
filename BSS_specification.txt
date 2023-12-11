@@ -1,0 +1,5 @@
+Battery technology: Lithium iron phosphate (LiFePO4)
+Energy capacity: 12 kWh
+Maximum (dis-)charging power: 9 kW
+Efficiency (value between 0 (exclusive) and 1 (inclusive)): 0.9
+Initial State of Charge (if required for your method): 1.2 kWh
